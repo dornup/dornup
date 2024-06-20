@@ -1,7 +1,7 @@
 <b><h1 align='center'>Всем привет!!!</h1></b>
 <h5 align='center' >Меня зовут Мелания, я изучаю программирование и веду <a href='https://t.me/IT_for_breakfast'>телеграмчик</a></h5>
-<img src='https://otzz.ru/wp-content/uploads/2023/12/kotenok-za-kompiuterom-1.webp' alt='котик в наушниках' height=200px align='left'>
-<img src='https://flomaster.top/uploads/posts/2023-01/1673573482_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-2.jpg' alt='котик в наушниках' height=200px align='right'>
+<img src='https://otzz.ru/wp-content/uploads/2023/12/kotenok-za-kompiuterom-1.webp' alt='котик в наушниках' height=150px align='left'>
+<img src='https://flomaster.top/uploads/posts/2023-01/1673573482_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-2.jpg' alt='котик в наушниках' height=150px align='right'>
 <pre>
 О себе:
 🌸 Изучаю Python и веб-разработку
@@ -9,19 +9,58 @@
 🌟 Стремлюсь к постонному саморазвитию и не боюсь нового
 💬 По всем вопросам: mdiscool1@mail.ru
 </pre>
+<br></br>
+<details>
+  <summary>
+    <h3>Навыки и скиллы 💡</h3>
+  </summary>
+  <details>
+    <summary>
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    </summary>
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    
+  </details>
+  <details>
+    <summary>
+      <p>web 🧩</p>
+    </summary>
+  <p>В процессе изучения</p>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  </details>
 
+  <details>
+    <summary>
+      <p>Редакторы кода и инструменты 🛠</p>
+    </summary>
+  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  </details>  
+</details>
 
-<!--
-**dornup/dornup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python-web&theme=jolly)](https://github.com/dornup/python-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python&theme=jolly)](https://github.com/dornup/python)
+<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F88%2Fa2%2Fab%2F88a2ab29c884f44ca8d2804ad8afddcc.png&f=1&nofb=1&ipt=c0e80160d810725a3dba7cc0cbcea9f5936dee0bec19eca48377297ae3a6578f&ipo=images' align='right' width='120px'>
 
-Here are some ideas to get you started:
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>
+
+  ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+  </summary>
+  
+<img src='https://www.codewars.com/users/dornup/badges/large' width='50%' align='center'>
+<p></p>
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=dornup&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+</details>
