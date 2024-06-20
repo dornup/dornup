@@ -48,7 +48,6 @@
 </details>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python&theme=jolly)](https://github.com/dornup/python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python-web&theme=jolly)](https://github.com/dornup/python-web)
 
 <br></br>
 
