@@ -49,7 +49,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python-web&theme=jolly)](https://github.com/dornup/python-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python&theme=jolly)](https://github.com/dornup/python)
-<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F88%2Fa2%2Fab%2F88a2ab29c884f44ca8d2804ad8afddcc.png&f=1&nofb=1&ipt=c0e80160d810725a3dba7cc0cbcea9f5936dee0bec19eca48377297ae3a6578f&ipo=images' align='right' width='120px'>
 
 <br></br>
 
