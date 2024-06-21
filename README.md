@@ -1,7 +1,7 @@
 <b><h1 align='center'>Всем привет!!!</h1></b>
 <h5 align='center' >Меня зовут Мелания, я изучаю программирование и веду <a href='https://t.me/IT_for_breakfast'>телеграмчик</a></h5>
-<img src='https://otzz.ru/wp-content/uploads/2023/12/kotenok-za-kompiuterom-1.webp' alt='котик в наушниках' height=150px align='left'>
-<img src='https://flomaster.top/uploads/posts/2023-01/1673573482_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-2.jpg' alt='котик в наушниках' height=150px align='right'>
+<img src='https://otzz.ru/wp-content/uploads/2023/12/kotenok-za-kompiuterom-1.webp' alt='котик в наушниках' width=15% align='left'>
+<img src='https://flomaster.top/uploads/posts/2023-01/1673573482_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-2.jpg' alt='котик в наушниках' width=15% align='right'>
 <pre>
 О себе:
 🌸 Изучаю Python и веб-разработку
@@ -48,9 +48,8 @@
 </details>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python-web&theme=jolly)](https://github.com/dornup/python-web)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornup&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dornup&repo=python&theme=jolly)](https://github.com/dornup/python)
 
-<br></br>
 
 <details>
   <summary>
