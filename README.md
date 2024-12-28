@@ -1,6 +1,6 @@
 <b><h1 align='center'>Всем привет!!!</h1></b>
 <h5 align='center' >Меня зовут Мелания, я изучаю программирование и веду <a href='https://t.me/IT_for_breakfast'>телеграмчик</a></h5>
-<img src='[https://otzz.ru/wp-content/uploads/2023/12/kotenok-za-kompiuterom-1.webp](https://sun9-69.userapi.com/s/v1/ig2/p4kQ97Xj_jeUQ8RKkgLEHUwSCAkPOQVJT76usmD4a9mB5eoNTcIrMjnbJsxJEm-MF1iAo_TeW0YGrMtXZ7C-amam.jpg?size=356x356&quality=95&crop=6,17,356,356&ava=1)' alt='котик в наушниках' width=15% align='left'>
+<img src='https://sun9-69.userapi.com/s/v1/ig2/p4kQ97Xj_jeUQ8RKkgLEHUwSCAkPOQVJT76usmD4a9mB5eoNTcIrMjnbJsxJEm-MF1iAo_TeW0YGrMtXZ7C-amam.jpg?size=356x356&quality=95&crop=6,17,356,356&ava=1' alt='котик в наушниках' width=15% align='left'>
 <img src='https://flomaster.top/uploads/posts/2023-01/1673573482_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-2.jpg' alt='котик в наушниках' width=15% align='right'>
 <pre>
 О себе:
